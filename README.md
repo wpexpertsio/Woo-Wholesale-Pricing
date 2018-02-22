@@ -60,7 +60,7 @@ If successful, click Activate Plugin to activate it, or return to plugin install
 - Fixed WooCommerce Currency Issue
 
 **1.0.4**
-- optimize code
+- Optimize code
 
 **1.0.3**
 - Fixed Wholesale Pricing Issue
@@ -69,7 +69,7 @@ If successful, click Activate Plugin to activate it, or return to plugin install
 **1.0.2**
 - Fixed Price formatting issues
 
-= 1.0.1 =
+**1.0.1**
 - Fixed Bug in Variable Prodcut Pricing Range
 - Fixed Bug in Variable Product Price to Wholesaler View
 
