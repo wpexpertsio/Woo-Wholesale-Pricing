@@ -1,0 +1,111 @@
+span.wwp_pro {
+    background-color: orange;
+    color: black;
+    padding: 2px;
+    font-size: 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    margin: 2px;
+}
+
+span.wwp-pro-box {
+    background-color: orange;
+    color: black;
+    padding: 2px;
+    font-size: 18px;
+    border-radius: 4px;
+    font-weight: bold;
+    margin: 2px;
+}
+
+.wwp-pro-wrap {
+    background-color: white;    
+	margin: 20px 100px;
+	padding: 50px;
+    /* font-size: 18px; */
+}
+
+.wwp-pro-wrap p {
+    font-size: 14px;
+}
+
+h1.wwp-pro-title {
+    font-weight: 100;
+    font-size: 40px;
+}
+
+h3.wwp-pro-feat {
+	font-size: 28px;
+    font-family: Roboto;
+    font-weight: 300;
+}
+
+ul.wwp-pro-list li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.wwp-buy-btn {
+	margin-top: 24px;
+}
+
+.wwp-buy-btn a {
+    text-decoration: none;
+}
+
+.wwp-features-boxes {
+    float: left;
+	margin: 18px 0px;
+}
+
+.feature-box h3 {
+    text-align: center;
+}
+
+.feature-box {
+    float: left;
+    width: 28%;
+    border: solid 1px #CCC;
+    padding: 10px;
+    margin: 8px;
+	box-shadow: 2px 2px 2px #CCC;
+}
+
+.feature-box span {
+    display: block;
+    margin: 0px auto;
+    font-size: 40px;
+    padding: 12px;
+}
+
+span.dashicons.dashicons-format-aside {
+    color: yellowgreen;
+}
+
+span.dashicons.dashicons-clipboard {
+    color: cadetblue;
+}
+
+span.dashicons.dashicons-editor-paste-text {
+    color: darkslateblue;
+}
+
+span.wwp-pro-link {
+	box-shadow: rgb(62, 115, 39) 0px 10px 14px -7px;
+    background: linear-gradient(rgb(119, 181, 90) 5%, rgb(114, 179, 82) 100%) rgb(119, 181, 90);
+    border-radius: 4px;
+    border: 1px solid rgb(75, 143, 41);
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 20px;
+    /* font-weight: bold; */
+    padding: 10px 42px;
+    text-decoration: none;
+    text-shadow: rgb(91, 138, 60) 0px 1px 0px;
+    display: block;
+    width: 34%;
+    margin: 0 auto;
+    text-align: center;
+}
